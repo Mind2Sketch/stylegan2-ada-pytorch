@@ -3,5 +3,6 @@ __pycache__/
 *.pkl
 out
 preset_styles
+preset_styles_256
 csv
 csv_256
