@@ -2,3 +2,5 @@ __pycache__/
 .cache/
 *.pkl
 out
+preset_styles
+csv
